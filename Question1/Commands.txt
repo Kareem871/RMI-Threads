@@ -6,16 +6,16 @@ start rmiregistry
 java clientserver.ClientServer s1
 
 
-cd Desktop\Question1\Question1\src
+cd ..\Question1\Question1\src
 java clientserver.ClientServer s2
 
-cd Desktop\Question1\Question1\src
+cd ..\Question1\Question1\src
 java clientserver.ClientServer s3
 
-cd Desktop\Question1\Question1\src
+cd ..\Question1\Question1\src
 java clientserver.ClientServer s4
 
-cd Desktop\Question1\Question1\src
+cd ..\Question1\Question1\src
 java clientserver.ClientServer s5
 
 
