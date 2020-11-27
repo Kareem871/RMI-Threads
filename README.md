@@ -4,7 +4,10 @@
 
 #Then count the number of letters between them.
 
+Commands To Run:
+
 cd .\Question1\Question1
+
 javac src/rmiinterface/RMIInterface.java src/clientserver/ClientServer.java src/rmiimplementaion/RMIImplementation1.java
 
 cd src
