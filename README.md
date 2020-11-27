@@ -12,13 +12,17 @@ java clientserver.ClientServer s1
 
 
 cd ..\Question1\Question1\src
+
 java clientserver.ClientServer s2
 
 cd ..\Question1\Question1\src
+
 java clientserver.ClientServer s3
 
 cd ..\Question1\Question1\src
+
 java clientserver.ClientServer s4
 
 cd ..\Question1\Question1\src
+
 java clientserver.ClientServer s5
