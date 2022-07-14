@@ -1,6 +1,6 @@
 # RMI-Threads
 
-Create 5 threads that send and recieve random messages between eachother then count the number of letters.
+Create 5 threads that send and recieve random generated messages between eachother then count the number of letters.
 
 Cli Commands To Run in More Than One Terminal:
 
