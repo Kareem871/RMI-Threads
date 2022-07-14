@@ -1,32 +1,30 @@
 # RMI-Threads
 
-#Create 5 thread that send and recieve random message between eachother
+Create 5 threads that send and recieve random messages between eachother then count the number of letters.
 
-#Then count the number of letters between them.
+Cli Commands To Run in More Than One Terminal:
 
-Commands To Run:
+    cd .\Question1\Question1
 
-cd .\Question1\Question1
+    javac src/rmiinterface/RMIInterface.java src/clientserver/ClientServer.java src/rmiimplementaion/RMIImplementation1.java
 
-javac src/rmiinterface/RMIInterface.java src/clientserver/ClientServer.java src/rmiimplementaion/RMIImplementation1.java
-
-cd src
-start rmiregistry
-java clientserver.ClientServer s1
+    cd src
+    start rmiregistry
+    java clientserver.ClientServer s1
 
 
-cd .\Question1\Question1\src
+    cd .\Question1\Question1\src
 
-java clientserver.ClientServer s2
+    java clientserver.ClientServer s2
 
-cd .\Question1\Question1\src
+    cd .\Question1\Question1\src
 
-java clientserver.ClientServer s3
+    java clientserver.ClientServer s3
 
-cd .\Question1\Question1\src
+    cd .\Question1\Question1\src
 
-java clientserver.ClientServer s4
+    java clientserver.ClientServer s4
 
-cd .\Question1\Question1\src
+    cd .\Question1\Question1\src
 
-java clientserver.ClientServer s5
+    java clientserver.ClientServer s5
